@@ -62,9 +62,9 @@ Lista definicji – termin
 
 Obraz - ścieżka
 ---------------
-.. image:: sciezka
-   :width: szerokosc
-   :align: wycentrowanie
+.. image:: `zse.-logo.png`
+   :width: 100%
+   :align: center
    :alt: tekst_alternatywny
    :caption: podpis_pod_obrazkiem
 
